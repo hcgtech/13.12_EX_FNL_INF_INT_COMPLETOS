@@ -70,7 +70,7 @@ luego de solicitar sobre temas de Preceptor en escuelas educativas del nivel sec
 continuando con información anterior armar dos tablas:
 tabla 1, con los reportes de adicciones de jovenes del nivel educativo secundario de la republica argentina de los ultimos cinco años, separados por provincia, donde las provincias estarán en filas y en columnas los años.
 tabla 2, con los reportes de suicidios de jovenes del nivel educativo secundario de la republica argentina de los ultimos cinco años, separados por provincia, donde las provincias estarán en filas y en columnas los años.
-Recuerda utilizar los recursos para esta tabla, informacion de medios formales de la republica argentina.
+Recuerda utilizar los recursos para esta tabla, información de medios formales de la republica argentina.
 ```
 
 **Paso 3:**
@@ -83,14 +83,14 @@ _Debes respetar la siguiente consigna_
 > * Primer página debe ser la Portada.
 > * Segunda página estará la Tabla de Contenido o Indice.
 > * Tercera página debe empezar todo el cuerpo del texto
-> * Recuerda que al final, agregar una pagina horizontal, donde debes estar el cuadro
-> * Al final debes tener incorporado la bibliografía
+> * Recuerda que al final, agregar una pagina horizontal, donde debes estar el cuadro.
+> * Al final debes tener incorporado la conclusión y bibliografía
 
 * Separa en 4 Secciones:
 > * Sección 1, Portada
 > * Sección 2, Indice y Cuerpo del texto
 > * Sección 3, CuadroImagen (PAGINA HORIZONTAL)
-> * Sección 4, Conclusines, Bibliografia y fuentes
+> * Sección 4, Conclusiones, Bibliografia y fuentes
 
 * **REPASA LOS SIGUIENTE PUNTOS PARA VERIFICAR QUE HAS AGREGADO TODOS LOS DETALLES:**
 > * Recuerda colocar el encabezado y pie de pagina en los lugares indicados.
@@ -108,6 +108,7 @@ _Debes respetar la siguiente consigna_
  > * Convierte en tablas los dos grupos de datos (tablas) (formato: convertir en tabla)
  > * Inserta un grafico en cada tabla.
  > * Genera los datos descriptivos a partir de la tabla. (Estadísticos).
+* Abre la planilla de cálculo de google con ejemplo de datos descriptivos [[pulsa aquí para abrir]]( https://docs.google.com/spreadsheets/d/11q1MyXDT0rHvdsMJ5PwSZOoOaC2glqw5rAhsbwNJMdU/edit?usp=sharing)
    
 A Partir de la base de datos que dejo disponible mas adelante.
 ![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
