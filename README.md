@@ -15,7 +15,7 @@ _Lo que sigue, es un proyecto particular sobre un tema específico, y la forma d
 
 ## 1. Estructura del proyecto (en google drive)
 - Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio.docx
-- .xls
+- Reporte de Adicciones y Suicidios.xls
 
 ---
 
@@ -31,9 +31,9 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 
 ![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/cuerpo.png "CUERPO DEL DOCUMENTO") 
 
-![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/cuerpo2.png "CUERPO DEL DOCUMENTO") 
+![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/cuerpo1.png "CUERPO DEL DOCUMENTO") 
 
-![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/horiz.png "HORIZONTAL CON TABLA")
+![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/horizontal.png "HORIZONTAL CON TABLA")
 
 ![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/concluso.png "CONCLUSIONES")
 
@@ -41,10 +41,12 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 
 
 ### 3. Estructura del Planilla de Cálculo. (PLANILLA DE CALCULO GOOGLE)
-A Partir de la base de datos que dejo disponible mas adelante.
-![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla.png "TABLA Y GRAFICA")
+A Partir de la base de datos que obtendrán con Claude.ai mas adelante.
 
-![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/grafica.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
+
+![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla2.png "TABLA Y GRAFICA")
+
 ---
 
 ## 4. Instrucciones para Desarrollo e Implementación
@@ -53,7 +55,7 @@ A Partir de la base de datos que dejo disponible mas adelante.
 
 **Paso 2:**
 * **Solicitar a Claude.ai lo siguiente:**
-
+### solicitud No 1:
 ```txt
 Sobre temas de Preceptor en escuelas educativas del nivel secundario en argentina, región Noreste donde incluye provincia Misiones.
 Necesito un reporte tipo informe escrito en formato procesador de texto sobre la problemática comportamiento o procedimiento de actuación del Preceptor administrativa y de contension emocional a llevar adelante ante alumnos en situaciones de adicciones y suicidios en tu entorno escolar. El tiempo utilizado para la investigación y busqueda, debe estar en los últimos 5 años. Utiliza para la elaboración del reporte: investigaciones, noticias relevantes de medios formales de comunicación, reportes policiales, ministerio de educacion de la nación. 
@@ -61,10 +63,20 @@ El reporte no debe superar las 10 paginas, incluye tabla de valores actuales de 
 Se espera que el reporte brinde una herramienta de ayuda y formación al preceptor de esta región.
 Incluye Portada y bibliografía utilizada al final del reporte.
 ```
+### solicitud No 2:
+luego de solicitar sobre temas de Preceptor en escuelas educativas del nivel secundario...
+
+```txt
+continuando con información anterior armar dos tablas:
+tabla 1, con los reportes de adicciones de jovenes del nivel educativo secundario de la republica argentina de los ultimos cinco años, separados por provincia, donde las provincias estarán en filas y en columnas los años.
+tabla 2, con los reportes de suicidios de jovenes del nivel educativo secundario de la republica argentina de los ultimos cinco años, separados por provincia, donde las provincias estarán en filas y en columnas los años.
+Recuerda utilizar los recursos para esta tabla, informacion de medios formales de la republica argentina.
+```
+
 **Paso 3:**
 * Abre el Procesador de texto de google y crea un archivo [[pulsa aquí para abrir el Procesador de Texto](https://docs.google.com/document/u/0/)]
   * _Recuerda habilitar markdown dentro de preferencias_ 
-  * Con la información genera por Claude.ai, **Copia y pega lo generado por Claude** 
+  * Con la información genera en solicitud No 1, por Claude.ai, **Copia y pega lo generado por Claude** 
 * UTILIZA LA MUESTRA ANTERIOR (OBSERVA LAS IMAGENES ANTERIORES)
 
 _Debes respetar la siguiente consigna_
@@ -87,17 +99,20 @@ _Debes respetar la siguiente consigna_
 
 **Paso 4:**
 * Abre la planilla de cálculo de google [[pulsa aquí para abrir](https://docs.google.com/spreadsheets/u/0/)]
-* Abre el siguiente archivo y pega los datos en tu planilla de cálculo [[pulsa aquí para abrir](https://docs.google.com/spreadsheets/d/1lC4LLIoJsoBxUiHNhfccjsP_XsRHnRxz9Xnb0Ndp33A/edit?usp=sharing)]
+* Con las tablas generadas en solicitud No 2, por Claude.ai, pega los datos en tu planilla.
+  
 * La consigna:
  > * Crea una nueva hoja en tu libro de planilla de calculo.
- > * Arma una tabla dinámica con filas que tenga: tipo, marca; suma  y allí copia las columnas y datos que puedes visualizar en la siguiente imagen.
- > * Inserta un grafico.
- > * Genera los datos descriptivos. (Estadísticos). En el archivo planilla de calculo que dejo a disposición, hay una hoja que muestra los titulos y debes armar las funciones, para hacer en tu propio archivo.
+ > * Copia los datos con sus titulos y comentarios.
+ > * Ordena los datos pegados de tal forma que puedas continuar.
+ > * Convierte en tablas los dos grupos de datos (tablas) (formato: convertir en tabla)
+ > * Inserta un grafico en cada tabla.
+ > * Genera los datos descriptivos a partir de la tabla. (Estadísticos).
    
 A Partir de la base de datos que dejo disponible mas adelante.
-![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla1.png "TABLA Y GRAFICA")
 
-![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/grafica.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/13.12_EX_FNL_INF_INT_COMPLETOS/blob/main/images/tabla2.png "TABLA Y GRAFICA")
 
 
 **Paso 6:**
@@ -117,7 +132,7 @@ A Partir de la base de datos que dejo disponible mas adelante.
       [[Informe/Manual Rol del Preceptor en Abordaje de Adicciones y Prevención del Suicidio](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
       
       ### Se adjunta tendencias adicciones y suicidios entre jóvenes del ciclo secundario en Argentina.
-      [[Tendencias en adiccioens y suicidios en jóvenes del Ciclo Secundario-Argentina](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+      [[Tendencias en adicciones y suicidios en jóvenes del Ciclo Secundario-Argentina](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
 
       ```
 
